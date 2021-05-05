@@ -1,0 +1,18 @@
+
+.products-hero {
+  background-image: url(/images/tast-background.JPG);
+    min-height: 430px;
+    background-size: cover;
+    margin-top: 0px;
+    padding-top: 150px;
+}
+    
+
+     .products-hero h2 {
+      text-align: center;
+      text-transform: uppercase;
+      color: white; }
+
+    .products-hero h2 {
+      font-size: 92px;
+      font-weight: 500; }

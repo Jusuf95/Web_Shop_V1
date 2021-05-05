@@ -1,0 +1,41 @@
+
+.hero{
+ background-color: black;
+}
+
+
+section.hero h1 {
+  
+  font-size: 68px;
+  font-weight: 300;
+  color: white;
+  letter-spacing: 8px;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+
+}
+
+  @media (max-width: 767px) {
+
+    section.hero h1 {
+      font-size: 42px; } }
+
+  section.hero h1 span {
+    font-weight: 600;
+    background-image: -webkit-linear-gradient(145deg, #a2fe73, #35fdb2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: hue 10s infinite linear; }
+
+section.hero video {
+  width: 100%; 
+  
+}
+
+@-webkit-keyframes hue {
+  from {
+    -webkit-filter: hue-rotate(0deg); }
+  to {
+    -webkit-filter: hue-rotate(-360deg); } 
+  }

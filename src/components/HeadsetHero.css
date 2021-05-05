@@ -1,0 +1,21 @@
+
+.products-hero2 {
+    background-image: url(/images/headsets_bc.png);
+      min-height: 430px;
+      background-size: cover;
+      margin-top: 0px;
+      padding-top: 150px;
+  }
+      
+  
+       .products-hero2 h2 {
+        text-align: center;
+        text-transform: uppercase;
+        color: white; }
+  
+      .products-hero2 h2 {
+        font-size: 92px;
+        font-weight: 500; }
+        .products-hero2 h2 span {
+          color: #00d2ff;
+          }

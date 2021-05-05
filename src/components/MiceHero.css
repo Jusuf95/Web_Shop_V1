@@ -1,0 +1,21 @@
+
+.products-hero1 {
+    background-image: url(/images/mic1.png);
+      min-height: 430px;
+      background-size: cover;
+      margin-top: 0px;
+      padding-top: 150px;
+  }
+      
+  
+       .products-hero1 h2 {
+        text-align: center;
+        text-transform: uppercase;
+        color: white; }
+  
+      .products-hero1 h2 {
+        font-size: 92px;
+        font-weight: 500; }
+        span{
+          color: yellow;
+        }
